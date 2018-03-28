@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 coucou
-=======
 je suis trop fort
->>>>>>> f2de001c45a0c3664959795a58e1396e42d6dea5
